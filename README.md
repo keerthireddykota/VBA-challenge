@@ -1,4 +1,4 @@
-***VBA-Challenge
+**VBA-Challenge**
 
 This VBA script analyzes stock data for each quarter and outputs the following information:
 

@@ -8,11 +8,11 @@ Percentage change
 Total stock volume
 The script also returns the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". The script is designed to run on every worksheet (i.e., every quarter) at once.
 
-Limitations
+Limitations:
 
 The script assumes that the input data is in a specific format and located in a specific range. If the data is not in the expected format or location, the script may not work as intended.
 
-Troubleshooting
+Troubleshooting:
 
 If the script does not work as expected, check the following:
 
